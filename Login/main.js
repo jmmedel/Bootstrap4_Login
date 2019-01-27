@@ -17,6 +17,7 @@ function enableSubmit (idForm) {
 	$(idForm + " input.submit").removeAttr("disabled");
 }
 
+
 function disableSubmit (idForm) {
 	$(idForm + " input.submit").attr("disabled", "disabled");
 }

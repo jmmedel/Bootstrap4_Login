@@ -18,4 +18,9 @@ body {
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
+    
+}
+
+.App {
+    background-attachment: fixed;
 }
