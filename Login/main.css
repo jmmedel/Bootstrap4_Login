@@ -1,13 +1,14 @@
-body { 
-    background-color: #F9F9F9;
-}
+body {
+    background-color: white
 
-.container{
-    margin-top: 5%;
+}
+.container {
+    margin-top:5%
 }
 
 .card-header {
     padding: 5px 15px;
+
 }
 
 .profile-img {
@@ -18,9 +19,9 @@ body {
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
-    
+
 }
 
 .App {
-    background-attachment: fixed;
+    background-attachment: fixed
 }
